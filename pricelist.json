@@ -91,6 +91,7 @@
     },
     {
         "id": 4,
+        "nama_paket": "Bisnis",
         "harga_paket": "14.900",
         "harga_diskon": "19.900",
         "pengguna": "938",
