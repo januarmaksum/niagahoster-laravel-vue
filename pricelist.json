@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "nama_paket": "Bayi",
+        "harga_paket": "14.900",
+        "harga_diskon": "19.900",
+        "pengguna": "938",
+        "feature": [
+            {
+                "resource": "<strong>0.5X resource power</strong>"
+            },
+            {
+                "disk_space": "<strong>500 MB</strong> disk space"
+            },
+            {
+                "bandwidth": "<strong>unlimited</strong> bandwidth"
+            },
+            {
+                "databases": "<strong>unlimited</strong> databases"
+            },
+            {
+                "domain": "<strong>1</strong> domain"
+            },
+            {
+                "backup": "<strong>instant</strong> backup"
+            },
+            {
+                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nama_paket": "Pelajar",
+        "harga_paket": "14.900",
+        "harga_diskon": "19.900",
+        "pengguna": "938",
+        "feature": [
+            {
+                "resource": "<strong>0.5X resource power</strong>"
+            },
+            {
+                "disk_space": "<strong>500 MB</strong> disk space"
+            },
+            {
+                "bandwidth": "<strong>unlimited</strong> bandwidth"
+            },
+            {
+                "databases": "<strong>unlimited</strong> databases"
+            },
+            {
+                "domain": "<strong>1</strong> domain"
+            },
+            {
+                "backup": "<strong>instant</strong> backup"
+            },
+            {
+                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nama_paket": "Personal",
+        "harga_paket": "14.900",
+        "harga_diskon": "19.900",
+        "pengguna": "938",
+        "feature": [
+            {
+                "resource": "<strong>0.5X resource power</strong>"
+            },
+            {
+                "disk_space": "<strong>500 MB</strong> disk space"
+            },
+            {
+                "bandwidth": "<strong>unlimited</strong> bandwidth"
+            },
+            {
+                "databases": "<strong>unlimited</strong> databases"
+            },
+            {
+                "domain": "<strong>1</strong> domain"
+            },
+            {
+                "backup": "<strong>instant</strong> backup"
+            },
+            {
+                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "harga_paket": "14.900",
+        "harga_diskon": "19.900",
+        "pengguna": "938",
+        "feature": [
+            {
+                "resource": "<strong>0.5X resource power</strong>"
+            },
+            {
+                "disk_space": "<strong>500 MB</strong> disk space"
+            },
+            {
+                "bandwidth": "<strong>unlimited</strong> bandwidth"
+            },
+            {
+                "databases": "<strong>unlimited</strong> databases"
+            },
+            {
+                "domain": "<strong>1</strong> domain"
+            },
+            {
+                "backup": "<strong>instant</strong> backup"
+            },
+            {
+                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+            }
+        ]
+    }
+]
