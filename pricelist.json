@@ -1,122 +1,74 @@
 [
-    {
-        "id": 1,
-        "nama_paket": "Bayi",
-        "harga_paket": "14.900",
-        "harga_diskon": "19.900",
-        "pengguna": "938",
-        "feature": [
-            {
-                "resource": "<strong>0.5X resource power</strong>"
-            },
-            {
-                "disk_space": "<strong>500 MB</strong> disk space"
-            },
-            {
-                "bandwidth": "<strong>unlimited</strong> bandwidth"
-            },
-            {
-                "databases": "<strong>unlimited</strong> databases"
-            },
-            {
-                "domain": "<strong>1</strong> domain"
-            },
-            {
-                "backup": "<strong>instant</strong> backup"
-            },
-            {
-                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "nama_paket": "Pelajar",
-        "harga_paket": "14.900",
-        "harga_diskon": "19.900",
-        "pengguna": "938",
-        "feature": [
-            {
-                "resource": "<strong>0.5X resource power</strong>"
-            },
-            {
-                "disk_space": "<strong>500 MB</strong> disk space"
-            },
-            {
-                "bandwidth": "<strong>unlimited</strong> bandwidth"
-            },
-            {
-                "databases": "<strong>unlimited</strong> databases"
-            },
-            {
-                "domain": "<strong>1</strong> domain"
-            },
-            {
-                "backup": "<strong>instant</strong> backup"
-            },
-            {
-                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "nama_paket": "Personal",
-        "harga_paket": "14.900",
-        "harga_diskon": "19.900",
-        "pengguna": "938",
-        "feature": [
-            {
-                "resource": "<strong>0.5X resource power</strong>"
-            },
-            {
-                "disk_space": "<strong>500 MB</strong> disk space"
-            },
-            {
-                "bandwidth": "<strong>unlimited</strong> bandwidth"
-            },
-            {
-                "databases": "<strong>unlimited</strong> databases"
-            },
-            {
-                "domain": "<strong>1</strong> domain"
-            },
-            {
-                "backup": "<strong>instant</strong> backup"
-            },
-            {
-                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "nama_paket": "Bisnis",
-        "harga_paket": "14.900",
-        "harga_diskon": "19.900",
-        "pengguna": "938",
-        "feature": [
-            {
-                "resource": "<strong>0.5X resource power</strong>"
-            },
-            {
-                "disk_space": "<strong>500 MB</strong> disk space"
-            },
-            {
-                "bandwidth": "<strong>unlimited</strong> bandwidth"
-            },
-            {
-                "databases": "<strong>unlimited</strong> databases"
-            },
-            {
-                "domain": "<strong>1</strong> domain"
-            },
-            {
-                "backup": "<strong>instant</strong> backup"
-            },
-            {
-                "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
-            }
-        ]
-    }
+  {
+    "id": 1,
+    "nama_paket": "Bayi",
+    "harga_paket": "14.900",
+    "harga_diskon": "19.900",
+    "pengguna": "938",
+    "feature": [
+      {
+        "resource": "<strong>0.5X resource power</strong>",
+        "disk_space": "<strong>500 MB</strong> disk space",
+        "bandwidth": "<strong>unlimited</strong> bandwidth",
+        "databases": "<strong>unlimited</strong> databases",
+        "domain": "<strong>1</strong> domain",
+        "backup": "<strong>instant</strong> backup",
+        "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nama_paket": "Pelajar",
+    "harga_paket": "23.450",
+    "harga_diskon": "46.900",
+    "pengguna": "4.168",
+    "feature": [
+      {
+        "resource": "<strong>1X resource power</strong>",
+        "disk_space": "<strong>unlimited</strong> disk space",
+        "bandwidth": "<strong>unlimited</strong> bandwidth",
+        "databases": "<strong>unlimited</strong> databases",
+        "domain": "<strong>10</strong> Addon domains",
+        "backup": "<strong>instant</strong> backup",
+        "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nama_paket": "Personal",
+    "harga_paket": "38.900",
+    "harga_diskon": "58.900",
+    "pengguna": "10.017",
+    "feature": [
+      {
+        "resource": "<strong>2X resource power</strong>",
+        "disk_space": "<strong>unlimited</strong> disk space",
+        "bandwidth": "<strong>unlimited</strong> bandwidth",
+        "databases": "<strong>unlimited</strong> databases",
+        "domain": "<strong>1</strong> domain",
+        "backup": "<strong>instant</strong> backup",
+        "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nama_paket": "Bisnis",
+    "harga_paket": "65.900",
+    "harga_diskon": "109.900",
+    "pengguna": "3.552",
+    "feature": [
+      {
+        "resource": "<strong>3X resource power</strong>",
+        "disk_space": "<strong>unlimited</strong> disk space",
+        "bandwidth": "<strong>unlimited</strong> bandwidth",
+        "databases": "<strong>unlimited</strong> databases",
+        "domain": "<strong>1</strong> domain",
+        "backup": "<strong>instant</strong> backup",
+        "ssl": "<strong>unlimited ssl</strong> gratis selamanya"
+      }
+    ]
+  }
 ]
